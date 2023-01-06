@@ -7,6 +7,7 @@ export default function Home() {
       height: '100vh',
       position: 'relative',
     }}>
+      <h1>This sucker's name is Ejmen</p>
       <Image src="sucker.jpg" fill/>
     </div>
   )
